@@ -4,7 +4,7 @@ To-Do List with Vanilla JS.
 
 ### 🔗 Demo
 
-Check out the live demo: 
+Check out the live demo:  https://aryangupta221.github.io/todolist/
 
 ### 📂 Project Structure
 
